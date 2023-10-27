@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Eleni",
+    "surname": "Vrabec",
+    "email": "eleni@gmail.com",
+    "password": "123",
+    "isLoggedIn": false
+  },
+  {
+    "id": "2",
+    "name": "Ana",
+    "surname": "Wolt",
+    "email": "ana@exempel",
+    "password": "1234",
+    "isLoggedIn": false
+  },
+  {
+    "id": "3",
+    "name": "Dani",
+    "surname": "Maila",
+    "email": "dani@exempel.se",
+    "password": "12345",
+    "isLoggedIn": false
+  }
+  
+]
